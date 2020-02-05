@@ -24,11 +24,12 @@ body{
     background: #00ff00;
 }
 .card .card__title{
-    
+    color: white;
     margin: 20px 43px 0 43px;
 }
 .card p{
     margin: 20px 43px 0 43px;
+    color: white;
 }
 .card .card__img{
     max-width: 94%;
